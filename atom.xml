@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Walkfreely</title>
+  <subtitle>随意地行走</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-04-03T12:06:30.337Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>walkfreely</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2016/04/03/hello-world/"/>
+    <id>http://yoursite.com/2016/04/03/hello-world/</id>
+    <published>2016-04-03T07:19:11.552Z</published>
+    <updated>2016-04-03T12:06:30.337Z</updated>
+    
+    <content type="html">&lt;hr&gt;
+&lt;p&gt;经过一番折腾终于把博客搭好了，接下来再看看Markdown的语法，就可以愉快地写博客了~.~&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;p&gt;经过一番折腾终于把博客搭好了，接下来再看看Markdown的语法，就可以愉快地写博客了~.~&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
