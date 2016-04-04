@@ -4,9 +4,9 @@
   <subtitle>随意地行走</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://walkfreely.github.io/"/>
   <updated>2016-04-04T09:42:08.429Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://walkfreely.github.io/</id>
   
   <author>
     <name>walkfreely</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World, Hello Github</title>
-    <link href="http://yoursite.com/2016/04/03/hello-world/"/>
-    <id>http://yoursite.com/2016/04/03/hello-world/</id>
+    <link href="http://walkfreely.github.io/2016/04/03/hello-world/"/>
+    <id>http://walkfreely.github.io/2016/04/03/hello-world/</id>
     <published>2016-04-03T07:19:11.552Z</published>
     <updated>2016-04-04T09:42:08.429Z</updated>
     
@@ -39,7 +39,7 @@
     </summary>
     
     
-      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://walkfreely.github.io/tags/Hexo/"/>
     
   </entry>
   
